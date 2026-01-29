@@ -20,6 +20,13 @@
       "description": "The forge for plugin development - create skills, commands, agents, hooks, and more",
       "version": "1.0.0",
       "tags": ["claude-code", "plugin-development", "forge", "skills", "extensibility"]
+    },
+    {
+      "name": "typescript-project",
+      "source": "./plugins/typescript-project",
+      "description": "Production-ready hooks for TypeScript/React projects - auto type checking, linting, and formatting",
+      "version": "1.0.0",
+      "tags": ["typescript", "react", "eslint", "prettier", "type-checking", "hooks"]
     }
   ]
 }
