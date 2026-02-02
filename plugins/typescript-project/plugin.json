@@ -1,0 +1,22 @@
+{
+  "name": "typescript-project",
+  "version": "1.0.0",
+  "description": "Production-ready hooks for TypeScript/React projects with automatic validation, type checking, linting, and formatting",
+  "author": {
+    "name": "OshanKHZ",
+    "url": "https://github.com/OshanKHZ"
+  },
+  "repository": "https://github.com/OshanKHZ/cc-swiss-knife",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "typescript",
+    "react",
+    "hooks",
+    "eslint",
+    "prettier",
+    "type-checking",
+    "developer-tools"
+  ],
+  "hooks": "./hooks/hooks.json"
+}
